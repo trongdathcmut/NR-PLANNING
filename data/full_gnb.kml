@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="document">
+	<name>5G ggearth</name>
+	<gx:CascadingStyle kml:id="__managed_style_07C8292819423761FA0B_highlight">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_07C8292819423761FA0B_normal">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_07C8292819423761FA0B">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_07C8292819423761FA0B_normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_07C8292819423761FA0B_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="099547A13C423761F9EC">
+		<name>NR 5G</name>
+		<LookAt>
+			<longitude>106.6520055863586</longitude>
+			<latitude>10.82941268555023</latitude>
+			<altitude>16.90046816252823</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>20538.22334666038</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_07C8292819423761FA0B</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						106.6470067507987,10.83934972839578,0 106.6330098382559,10.81389737359518,0 106.6359824244669,10.80370447337972,0 106.6672141869633,10.80033414051603,0 106.6787382112112,10.8140018384747,0 106.6800541569412,10.82663147956082,0 106.664505635941,10.8347518279194,0 106.6470067507987,10.83934972839578,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="01B7AD10724237C0C1D0">
+		<name>gNB-01</name>
+		<LookAt>
+			<longitude>106.6388069982826</longitude>
+			<latitude>10.80485488216258</latitude>
+			<altitude>14.03296332796844</altitude>
+			<heading>-1.612538327857416e-08</heading>
+			<tilt>0.2176570708452063</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>445.6751511643961</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_07C8292819423761FA0B</styleUrl>
+		<Point>
+			<coordinates>106.6382649529535,10.80441452945791,11.23403461711809</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0AF5E1F06A4237C9F4E0">
+		<name>gNB-02</name>
+		<LookAt>
+			<longitude>106.6391785628184</longitude>
+			<latitude>10.81819751784566</latitude>
+			<altitude>7.420634515729947</altitude>
+			<heading>-6.002907357731119</heading>
+			<tilt>19.33939915320864</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>691.1855411699071</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_07C8292819423761FA0B</styleUrl>
+		<Point>
+			<coordinates>106.6394648801744,10.81770755715304,6.967588761454309</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08F90F28824237CA9428">
+		<name>gNB-03</name>
+		<LookAt>
+			<longitude>106.6462802358345</longitude>
+			<latitude>10.83338649225438</latitude>
+			<altitude>8.174457960234367</altitude>
+			<heading>-0.1376742111547585</heading>
+			<tilt>10.64099730223277</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>349.2202503055524</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_07C8292819423761FA0B</styleUrl>
+		<Point>
+			<coordinates>106.6459634363775,10.83309090158089,10.20204519126302</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FDABEF1124237CB7FBE">
+		<name>gNB-04</name>
+		<LookAt>
+			<longitude>106.6578263451717</longitude>
+			<latitude>10.83453232754287</latitude>
+			<altitude>11.12151775574565</altitude>
+			<heading>-6.876850315726347e-05</heading>
+			<tilt>2.428285064511478</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>53.97182142114616</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_07C8292819423761FA0B</styleUrl>
+		<Point>
+			<coordinates>106.657800406595,10.8345011561922,11.03874554623518</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="032D0627F54237CCFF93">
+		<name>gNB-05</name>
+		<LookAt>
+			<longitude>106.6747221649202</longitude>
+			<latitude>10.8265842880566</latitude>
+			<altitude>12.1552156029588</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>400.0372064346448</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_07C8292819423761FA0B</styleUrl>
+		<Point>
+			<coordinates>106.6749755129927,10.8262831929048,12.02022359720602</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07BE9FCC7A4237CDCBCB">
+		<name>gNB-06</name>
+		<LookAt>
+			<longitude>106.6754694837122</longitude>
+			<latitude>10.81561450552604</latitude>
+			<altitude>12.47808209426102</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>192.3729853389159</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_07C8292819423761FA0B</styleUrl>
+		<Point>
+			<coordinates>106.6755793548758,10.81543104233663,12.01589493013282</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D493978804237CE7BB9">
+		<name>gNB-07</name>
+		<LookAt>
+			<longitude>106.665372384144</longitude>
+			<latitude>10.80368431269508</latitude>
+			<altitude>10.1334829169614</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>122.9208800717788</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_07C8292819423761FA0B</styleUrl>
+		<Point>
+			<coordinates>106.6655006795455,10.80379727082013,9.479817473123141</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E8DAD76EE4237CEE7EF">
+		<name>gNB-08</name>
+		<LookAt>
+			<longitude>106.6521718648193</longitude>
+			<latitude>10.80442424366239</latitude>
+			<altitude>7.420051440099568</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>611.8809744901228</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_07C8292819423761FA0B</styleUrl>
+		<Point>
+			<coordinates>106.651772755339,10.80400937147297,7.212188204682743</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

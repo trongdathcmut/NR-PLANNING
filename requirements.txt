@@ -1,0 +1,8 @@
+numpy>=2.0
+pandas>=2.2
+matplotlib>=3.8
+scipy>=1.12
+shapely>=2.0
+pyproj>=3.6
+folium>=0.17
+branca>=0.7

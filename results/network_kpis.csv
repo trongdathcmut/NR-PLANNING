@@ -1,0 +1,2 @@
+study_area_km2,site_count,median_nearest_neighbor_km,coverage_rsrp_ge_-105_pct,coverage_rsrp_ge_-95_pct,sinr_ge_0_pct,sinr_ge_13_pct,weak_area_pct,median_rsrp_dbm,median_sinr_db,median_throughput_mbps,overlap_3plus_pct,candidate_site_latitude,candidate_site_longitude,candidate_distance_to_nearest_site_m
+15.7241,8,1.389974683711684,90.63016334469705,58.12854244661494,100.0,68.73862756990778,9.369836655302953,-84.1988732528186,15.624310066539975,376.5071054552511,18.45941480350533,10.811138757518618,106.65859959322032,1085.9439650576624
